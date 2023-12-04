@@ -1,1 +1,1 @@
-# odin-recipes
+This is a sample recipes website made for the odin project course, it will be fairly basic and will eventually use CSS to make it actually not an eyesore.
