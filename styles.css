@@ -1,10 +1,37 @@
 /* styles.css */
+*{
+  background-color: #08080A;
+  color: #888888;
+  font-family: 'Garamond', 'Times New Roman', serif;
+  margin-left: 3%;
+}
 
-div {
-    color: #c2c2c2;
-    background-color: #181818;
-  }
-  
-  p {
-    color: #bbbbbb;
-  }
+.title {
+  font-size: 48px;
+  font-family: 'Garamond', 'Times New Roman', serif;
+  margin-left: 2%;
+}
+
+.title.subsection {
+  font-size: 28px;
+}
+
+a:visited {
+  color: #444477;
+}
+
+a:hover {
+  color: #AAAAAA
+}
+
+a:active {
+  color: #FFFFFF;
+}
+
+.recipe-img {
+  margin-left: 10%;
+}
+
+.list {
+  margin-left: 0%;
+}
